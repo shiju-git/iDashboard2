@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Data Visualizer",
+  "description": "An interactive data analysis dashboard and visualization suite supporting custom uploads, diverse chart models, custom D3 layouts, and server-side Gemini AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
